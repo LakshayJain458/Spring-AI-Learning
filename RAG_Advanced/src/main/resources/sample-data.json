@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "age": 28,
+    "city": "Delhi",
+    "salary": 45000,
+    "department": "Engineering",
+    "joining_date": "2021-03-15",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Priya Patel",
+    "age": 34,
+    "city": "mumbai",
+    "salary": 62000,
+    "department": "HR",
+    "joining_date": "2019-07-22",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Amit Kumar",
+    "age": null,
+    "city": "bangalore",
+    "salary": -5000,
+    "department": "Finance",
+    "joining_date": "2020-11-01",
+    "active": false
+  },
+  {
+    "id": 4,
+    "name": "sneha reddy",
+    "age": 29,
+    "city": "Hyderabad",
+    "salary": 53000,
+    "department": "engineering",
+    "joining_date": "2022-01-10",
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "Vikram Singh",
+    "age": 45,
+    "city": "CHENNAI",
+    "salary": 78000,
+    "department": "Finance",
+    "joining_date": "2018-05-30",
+    "active": null
+  },
+  {
+    "id": 6,
+    "name": null,
+    "age": 31,
+    "city": "Pune",
+    "salary": 41000,
+    "department": "HR",
+    "joining_date": "2023-08-14",
+    "active": true
+  }
+]

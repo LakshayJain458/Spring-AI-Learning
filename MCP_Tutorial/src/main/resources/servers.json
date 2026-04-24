@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx.cmd",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "\\Users\\Lakshay\\IdeaProjects\\Spring AI\\mcp_result_data"
+      ]
+    }
+  }
+}
